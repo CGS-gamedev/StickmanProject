@@ -253,7 +253,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e11b61c627961840948be9412efd31b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isLeftOrRight: 0
+  isLeftOrRight: 1
   speed: 300
   cam: {fileID: 519420031}
 --- !u!114 &5265241490010632864
@@ -438,7 +438,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e11b61c627961840948be9412efd31b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isLeftOrRight: 0
+  isLeftOrRight: 1
   speed: 300
   cam: {fileID: 519420031}
 --- !u!114 &5265241490245606151
@@ -1734,7 +1734,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e11b61c627961840948be9412efd31b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isLeftOrRight: 1
+  isLeftOrRight: 0
   speed: 300
   cam: {fileID: 519420031}
 --- !u!114 &5265241490864606085
@@ -1919,7 +1919,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e11b61c627961840948be9412efd31b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isLeftOrRight: 1
+  isLeftOrRight: 0
   speed: 300
   cam: {fileID: 519420031}
 --- !u!114 &5265241490873314849
@@ -3090,7 +3090,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hand: {fileID: 5265241491569535610}
-  isLeftOrRight: 1
+  isLeftOrRight: 0
 --- !u!233 &5265241491569535608
 HingeJoint2D:
   m_ObjectHideFlags: 0
